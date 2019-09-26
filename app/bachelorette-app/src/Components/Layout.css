@@ -1,0 +1,23 @@
+.layout-searchandtable{
+    padding: 15px 20px 20px 20px;
+    border-radius: 10px;
+    background-color: #301516;
+}
+
+.layout-navbar{
+    margin-bottom: 20px;
+}
+
+.layout-searchform{
+    padding: 17px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: #474646
+}
+
+.container{
+    max-width: '90%';
+}
+
+#layout-examplesearchinstruct{
+    color: white;
+}
